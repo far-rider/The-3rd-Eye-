@@ -139,7 +139,7 @@ def main(video_source=0):
     cv2.destroyAllWindows()
 
 if __name__ == "__main__":
-    DATASET_PATH = r"C:\Users\Mohammed Haris\Onedrive\blahh\weapon-detection.v1i.createml"
+    DATASET_PATH = r"your dataset"
     VIDEO_SOURCE = 0  
 
     print("Training CNN Classifier...")
